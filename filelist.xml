@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<contentpackage name="Breaching Charges" modversion="1.0.0" corepackage="False" gameversion="0.20.16.1">
-  <Item file="%ModDir%/Bombs.xml" />
+<contentpackage name="More Explisives" modversion="1.0.0" corepackage="False" gameversion="0.20.16.1">
+  <Item file="%ModDir%/Explosives.xml" />
 </contentpackage>
